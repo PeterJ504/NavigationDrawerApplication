@@ -2,4 +2,5 @@
     <string name="app_name">MyNavigationDrawerApplication</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="NavigationHeaderText">This is the Navigation Drawer Text</string>
 </resources>
